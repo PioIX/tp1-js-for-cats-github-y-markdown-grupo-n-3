@@ -1,3 +1,7 @@
+## JS Para Gatos
+
+![Ga3](substack-cats.png)
+
 ## 1- ¿Qué fue lo que más te gustó de la guía? 
 Me gusto el caractrer didactico y la facilidad de la guia.
 
