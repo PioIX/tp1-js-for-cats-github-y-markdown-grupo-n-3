@@ -1,11 +1,11 @@
-1- ¿Qué fue lo que más te gustó de la guía?
-Me gusto el caractrer didactico y la facilidad de la guia.
+# 1- ¿Qué fue lo que más te gustó de la guía? 
+## Me gusto el caractrer didactico y la facilidad de la guia.
 
-2- ¿Qué fue lo más fácil?
-Lo que más me gustó fue la interaccion facil gracias a tener la consola. Se podia leer y ejecutar el codigo al mismo tiempo.
+### 2- ¿Qué fue lo más fácil?
+#### Lo que más me gustó fue la interaccion facil gracias a tener la consola. Se podia leer y ejecutar el codigo al mismo tiempo.
 
-3- ¿Qué fue lo más difícil?
-Debido al nivel inicial de la guia, no hubo nada que me haya complicado.
+##### 3- ¿Qué fue lo más difícil?
+###### Debido al nivel inicial de la guia, no hubo nada que me haya complicado.
 
 4- ¿Qué conocías de otros lenguajes (nombrar el lenguaje)?
 Variables
