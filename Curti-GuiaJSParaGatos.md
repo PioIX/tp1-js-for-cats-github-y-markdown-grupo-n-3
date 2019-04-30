@@ -14,7 +14,7 @@ Las estructuras, las declaraciones de variables, el imprimir en pantalla cosas
 ## 5. ¿Qué es diferente de otros lenguajes?
 La forma en que se escribe,distinta a los otros lenguajes
 ## 6. ¿Cuáles son los Tips que da el autor para ser un buen programador?
-Los tips que da son consejos que son útiles, como escribir todo de forma tal que se pueda corregir mas facilmente, o usar nombres simplea para su identificación
+Los tips que da son consejos que son útiles, como escribir todo de forma tal que se pueda corregir mas facilmente, o usar nombres simples para su identificación
    
 
 
