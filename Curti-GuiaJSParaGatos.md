@@ -17,5 +17,4 @@ La forma en que se escribe,distinta a los otros lenguajes
 Los tips que da son consejos que son útiles, como escribir todo de forma tal que se pueda corregir mas facilmente, o usar nombres simples para su identificación
    
 
-
-
+[JsParaGatos](http://jsparagatos.com)
